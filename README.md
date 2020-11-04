@@ -7,3 +7,5 @@
 * Meydan Okuma [#2](cozumler/2.md)
 * Meydan Okuma [#3](cozumler/3.md)
 * Meydan Okuma [#4](cozumler/4.md)
+* Meydan Okuma [#5](cozumler/5.md)
+* Meydan Okuma [#6](cozumler/6.md)
